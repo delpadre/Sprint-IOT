@@ -4,6 +4,8 @@ Giovanna Franco - RM553701
 Rafael Almeida - RM554019
 Rafael Jorge Del Padre - Rm552765
 
+---
+
 # 👁️ Sistema de Detecção Facial com OpenCV (Haar Cascade)
 
 ## 📌 Objetivo do Projeto
