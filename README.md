@@ -60,3 +60,6 @@ Esses parâmetros podem ser alterados e mostrados no vídeo para demonstrar o im
 ### 1️⃣ Instale as dependências
 ```bash
 pip install opencv-python
+```
+
+Link youtube: https://youtu.be/xQHzf98sveM
