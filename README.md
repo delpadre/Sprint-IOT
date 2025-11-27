@@ -6,6 +6,8 @@
 - Rafael Jorge Del Padre - Rm552765
 
 ---
+Link youtube: https://youtu.be/xQHzf98sveM
+---
 
 # 👁️ Sistema de Detecção Facial com OpenCV (Haar Cascade)
 
@@ -62,4 +64,4 @@ Esses parâmetros podem ser alterados e mostrados no vídeo para demonstrar o im
 pip install opencv-python
 ```
 
-Link youtube: https://youtu.be/xQHzf98sveM
+
