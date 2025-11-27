@@ -1,4 +1,6 @@
 # Grupo:
+Lucas bertolassi iori - RM553183  
+Giovanna Franco - RM553701
 Lucas bertolassi iori - RM553183
 Giovanna Franco - RM553701
 Rafael Almeida - RM554019
