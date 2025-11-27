@@ -30,8 +30,8 @@ O processo funciona assim:
 
 ### 🔹 **scaleFactor**
 Controla o quanto a imagem diminui a cada análise.  
-- **1.05** → mais preciso, mais lento  
-- **1.3** → mais rápido, menos preciso
+- **1.05** → Sensível (detecta mais, mas também erra mais)
+- **1.3** → Detecta menos, porém menos erros
 
 ### 🔹 **minNeighbors**
 Número de “confirmações” necessárias para validar um rosto.  
